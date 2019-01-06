@@ -1,0 +1,27 @@
+1: {Bioprinting, }
+2: {Internet of Things, Robotics, Game Design, Data Software, Sensors, Coding, }
+3: {Software Engineering, Social Media, Technology, }
+4: {Marketing, Sports Marketing Entertainment, Digital Citizenship, Small Business Management, Entrepreneurship, Accounting, Communication, Digital Comunication, Google docs, Google Slides, Google Presentations, Hospitality, Food Service Management, Entertainment, }
+5: {Economic Development, Economics, Government , }
+6: {3D Printing, Data Software, }
+7: {Game Design, Data Software, Electronics, Internet of Things, Computer Science, Coding, Programming, }
+8: {3D Printing, Genetics, Evolution, Genetic Inheritance, Ecosystem Stability, Response to Climate Change, History of Earth's Atmosphere, }
+9: {3D Printing, Cloud Networking, Digital Arts, Life Skills, Art, }
+10: {Electronics, 3D Printing, Energy Management, Metal Fabrication, Vinyl Cutting, Economic Development, Design and Engineering Thinking, }
+11: {Internet of Things, communication skills, intrapersonal skills, customer service skills, leadership, budgeting, strategic thinking, customer service, keyboarding, }
+bad course get for id 13: {Sensors, Data Software, Biology, Biomedical, }
+14: {grammar , rhetoric, logic, arithmetic, geometry , astronomy, music, }
+15: {Artificial Intelligence, }
+bad course get for id 17: {Business Planning, Entrepreneurship, Marketing, Business Modelling, Presentation Skills, Pitching, }
+18: {Economic Development, Resume Writing, Diet Planning, Family Planning, }
+19: {Data Software, Cloud Networking, web design, javascript, java, App Inventor, }
+20: {Virtual Reality, Internet of Things, Drones, Mixed Reality, Digital Arts, }
+21: {Laser Cutting, Laser Engraving, Woodworking, Cabinetmaking, Safety, Construction, Home Improvement, Furniture, Furniture Design, SketchUp, CorelDRAW, CNC, Vcarve, Tools, }
+22: {graphic design, 360 fillmaking, adobe premiere , adobe photoshop, adobe after effects, app design, graohic design, drone cameras, filmmaking, }
+23: {Programming, 3D CAD, Biochemical compatability, Cell impregnation, }
+24: {Motion Capturing, }
+25: {Google docs, cloud computing, app coding, economic development, business plan, pitch decks, MIT App Inventor, Banking, Economics, Marketing, }
+26: {3D Printing, Robotics, design, Internet of Things, Electronics, drafting, cad, }
+27: {3D Printing, Internet of Things, Virtual Reality, Graphic Design, }
+28: {Data Software, iOS Development, Swift Coding Language, App Development, }
+29: {Data Analysis, Observation Skill, Correlation Recognition , Use Digital Probware, }

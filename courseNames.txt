@@ -1,0 +1,29 @@
+1: {Bioprinting, }
+2: {AP Computer Science Principles, }
+3: {Entrepreneurship Incubator, }
+4: {Marketing, Small Business Management, Digital Citizenship, }
+5: {U.S. Government/Economics, U.S. Government/Economics, U.S. Government/Economics, U.S. Government/Economics, English, }
+6: {Integrated Science, Biology, Design & Architecture, }
+7: {Computer Programming 1/2, AP Computer Principles, AP Computer Principles, }
+8: {Living Earth, Living Earth, Living Earth, Living Earth, Living Earth, }
+9: {Digital Arts, }
+10: {STEAM A, STEAM B, TECHNOLOGY A, TECHNOLOGY B, }
+11: {Hospitality Tourism & Recreation, Keyboarding, Subject Lab, }
+12: {Spring Project , }
+13: {Anatomy/Physiology, }
+14: {Math 1, math 2, math 3, }
+15: {Artificial Intelligence, }
+bad course
+17: {Marketing 1, Marketing 1, Marketing 1, Advisory (7th and 8th Graders), Marketing 2, }
+18: {Life After High School, Life After High School, }
+19: {AP Computer Science A, AP Computer Science Principles, Introduction to Programming, }
+20: {Algebra P, Media 1, Computer Applications 2, Computer Applications 1, Computer Applications 1, }
+21: {Wood Technology II, Wood Technology I, Wood Technology I, Wood Technology I, Wood Technology I, }
+22: {}
+23: {Chemistry, Chemistry, Chemistry, Bioprinting Club, }
+24: {Motion Capturing, }
+25: {Entrepreneurship , Computer Applications , Computer Applications , Entrepreneurship , Computer Applications , }
+26: {Algebra 2, English Language Development, Trigonometry, Intro to Design , }
+27: {Graphic Arts, Modern Fabrication & Design Technologies, Graphic Arts & Design, Graphic Arts & Design, Graphic Arts, }
+28: {Advanced Topics in Computer Science, Advanced Topics in Computer Science, }
+29: {Environmental Science, AP Environmental Science, Environmental Science, AP Environmental Science, Biology, }

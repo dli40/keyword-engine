@@ -1,0 +1,30 @@
+id,course_name,selected_skills_keywords,selected_industry_keywords
+1,Bioprinting,Bioprinting,Bioprinting
+2,AP Computer Science Principles,"Internet of Things,Robotics,Game Design,Data Software,Sensors,Coding","Internet of Things,Gaming,Data Science,Robotics,Artificial Intelligence,Data"
+3,Entrepreneurship Incubator,"Software Engineering,Social Media,Technology","Technology,High-Tech,Digital Transformation,Trades "
+4,"Marketing,Small Business Management,Digital Citizenship","Marketing,Sports Marketing Entertainment,Digital Citizenship,Small Business Management,Entrepreneurship,Accounting,Communication,Digital Communication,Google docs,Google Slides,Google Presentations,Hospitality,Food Service Management,Entertainment","Hospitality,Sports Management,General Business',Business,Managment Skills,Digital Communication,Graphic Communication & Presentations"
+5,"U.S. Government/Economics,U.S. Government/Economics,U.S. Government/Economics,U.S. Government/Economics,English","Economic Development,Economics,Government","Drones,Robotics,Internet of Things,Sustainability,Artificial Intelligence,Automotive,Lifestyle,Gaming"
+6,"Integrated Science,Biology,Design & Architecture","3D Printing,Data Software","Sustainability,Healthcare,Space,Data,Data Science,Bioprinting,Gaming"
+7,"Computer Programming 1/2,AP Computer Principles,AP Computer Principles","Game Design,Data Software,Electronics,Internet of Things,Computer Science,Coding,Programming","Data Science,Robotics,Gaming,Artificial Intelligence,Internet of Things,Drones,Data"
+8,"Living Earth,Living Earth,Living Earth,Living Earth,Living Earth","3D Printing,Genetics,Evolution,Genetic Inheritance,Ecosystem Stability,Response to Climate Change,History of Earth’s Atmosphere","Healthcare,Sustainability,Bioprinting,Data Science,Healthcare"
+9,Digital Arts,"3D Printing,Cloud Networking,Digital Arts,Life Skills,Art","Robotics,Internet of Things,Gaming,Bioprinting"
+10,"STEAM A,STEAM B,TECHNOLOGY A,TECHNOLOGY B","Electronics,3D Printing,Energy Management,Metal Fabrication,Vinyl Cutting,Economic Development,Design and Engineering Thinking","Engineering,Trades,Robotics,Sustainability,Lifestyle,Automotive,Art,Creative Work,Design,Industrial Design,Architecture,Maker"
+11,"Hospitality Tourism & Recreation,Keyboarding,Subject Lab","Internet of Things,communication skills,intrapersonal skills,customer service skills,leadership,budgeting,strategic thinking,customer service,keyboarding","Drones,Internet of Things,Gaming,Hospitality,tourism,recreation,food & beverage,lodging,computer technology"
+12,Spring Project ,-1,-1
+13,Anatomy/Physiology,"Sensors,Data Software,Biology,Biomedical","Artificial Intelligence,Lifestyle,Healthcare,Sustainability"
+14,"Math 1,math 2,math 3","grammar,rhetoric,logic,arithmetic,geometry,astronomy,music","Lifestyle,Artificial Intelligence,Healthcare,Robotics,Data Science,Sustainability,Drones,Internet of Things,Automotive,Healthcare,Gaming,Data,Space,Bioprinting,Trades"
+15,Artificial Intelligence,Artificial Intelligence,Artificial Intelligence
+-1,-1,-1,-1
+17,"Marketing 1,Marketing 1,Marketing 1,Advisory (7th and 8th Graders),Marketing 2","Business Planning,Entrepreneurship,Marketing,Business Modeling,Presentation Skills,Pitching","Gaming,Robotics,Drones,Small Businesses,Marketing,Bioprinting,Artificial Intelligence"
+18,"Life After High School,Life After High School","Economic Development,Resume Writing,Diet Planning,Family Planning","Trades,Healthcare,Automotive"
+19,"AP Computer Science A,AP Computer Science Principles,Introduction to Programming","Data Software,Cloud Networking,web design,javascript,java,App Inventor","Drones,Robotics,Internet of Things,Gaming,Artificial Intelligence"
+20,"Algebra P,Media 1,Computer Applications 2,Computer Applications 1,Computer Applications 1","Virtual Reality,Internet of Things,Drones,Mixed Reality,Digital Arts","Drones,Sustainability,Lifestyle,Internet of Things"
+21,"Wood Technology II,Wood Technology I,Wood Technology I,Wood Technology I,Wood Technology I","Laser Cutting,Laser Engraving,Woodworking,Cabinetmaking,Safety,Construction,Home Improvement,Furniture,Furniture Design,SketchUp,CorelDRAW,CNC,Vcarve,Tools","Carpentry,Woodworking,Construction,Cabinetmaking,Furniture Design,Toy Design"
+22,,"graphic design,360 fillmaking,adobe premiere ,adobe photoshop,adobe after effects,app design,graphic design,drone cameras,filmmaking","Drones,Lifestyle,Gaming,Robotics,graphic design,entertainment ,virtual reality"
+23,"Chemistry,Chemistry,Chemistry,Bioprinting Club","Programming,3D CAD,Biochemical compatability,Cell impregnation","3D BioPrinting,BioMaterial"
+24,Motion Capturing,Motion Capturing,Motion Capturing
+25,"Entrepreneurship ,Computer Applications ,Computer Applications ,Entrepreneurship ,Computer Applications","Google docs,cloud computing,app coding,economic development,business plan,pitch decks,MIT App Inventor,Banking,Economics,Marketing","Advertising,marketing,customer service,public relations,market research analysis,computer science,retail sales,customer service representative,sales manager ,real estate broker ,business owner ,event planning,entrepreneur,travel agent"
+26,"Algebra 2,English Language Development,Trigonometry,Intro to Design","3D Printing,Robotics,design,Internet of Things,Electronics,drafting,cad","Drones,Robotics,Internet of Things,engineering,3-d design,maker"
+27,"Graphic Arts,Modern Fabrication & Design Technologies,Graphic Arts & Design,Graphic Arts & Design,Graphic Arts","3D Printing,Internet of Things,Virtual Reality,Graphic Design","Internet of Things,Sustainability,Bioprinting,Gaming,Healthcare,Space,Robotics,Automotive,Lifestyle"
+28,"Advanced Topics in Computer Science,Advanced Topics in Computer Science","Data Software,iOS Development,Swift Coding Language,App Development","Data,Data Science,Internet of Things,Robotics,Drones,Artificial Intelligence"
+29,"Environmental Science,AP Environmental Science,Environmental Science,AP Environmental Science,Biology","Data Analysis,Observation Skill,Correlation Recognition ,Use Digital Probware","Sustainability,Bioprinting,Pollution,Solid Waste,Climate Science,Genetics"

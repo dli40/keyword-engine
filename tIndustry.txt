@@ -1,0 +1,29 @@
+1: {Bioprinting, }
+2: {Internet of Things, Gaming, Data Science, Robotics, Artificial Intelligence, Data, }
+3: {Technology, High-Tech, Digital Transformation, Trades, }
+4: {Hospitality, Sports Management, General Business', Business, Managment Skills, Digital Communication, Graphic Communication & Presentations, }
+5: {Drones, Robotics, Internet of Things, Sustainability, Artificial Intelligence, Automotive, Lifestyle, Gaming, }
+6: {Sustainability, Healthcare, Space, Data, Data Science, Bioprinting, Gaming, }
+7: {Data Science, Robotics, Gaming, Artificial Inteligence, Internet of Things, Drones, Data, }
+8: {Heathcare, Sustainability, Bioprinting, Data Science, Healthcare, }
+9: {Robotics, Internet of Things, Gaming, Bioprinting, }
+10: {Engineering, Trades, Robotics, Sustainability, Lifestyle, Automotive, Art, Creative Work, Design, Industrial Design, Architecture, Maker, }
+11: {Drones, Internet of Things, Gaming, Hospitality-     , tourism, recreation, food & beverage, lodging, computer technology, }
+bad course
+13: {Artificial Intelligence, Lifestyle, Healthcare, Sustainability, }
+14: {Lifestyle, Artificial Inteligence, Heathcare, Robotics, Data Science, Sustainability, Drones, Internet of Things, Automotive, Healthcare, Gaming, Data, Space, Bioprinting, Trades, }
+15: {Artificial Intelligence, }
+bad course
+17: {Gaming, Robotics, Drones, Small Businesses, Marketing, Bioprinting, Artificial Inteligence, }
+18: {Trades, Heathcare, Automotive, }
+19: {Drones, Robotics, Internet of Things, Gaming, Artificial Inteligence, }
+20: {Drones, Sustainability, Lifestyle, Internet of Things, }
+21: {Carpentry, Woodworking, Construction, Cabinetmaking, Furniture Design, Toy Design, }
+22: {Drones, Lifestyle, Gaming, Robotics, graphic design, entertainment , virtual reality, }
+23: {3D BioPrinting, BioMaterial, }
+24: {Motion Capturing, }
+25: {Advertising, marketing, customer service, public relations, market research analysis, computer science, retail sales, customer service reprenetative, sales manager , real estate broker , business owner , event planning, entrepreneur, travel agent, }
+26: {Drones, Robotics, Internet of Things, engineering, 3-d design, maker, }
+27: {Internet of Things, Sustainability, Bioprinting, Gaming, Healthcare, Space, Robotics, Automotive, Lifestyle, }
+28: {Data, Data Science, Internet of Things, Robotics, Drones, Artificial Inteligence, }
+29: {Sustainability, Bioprinting, Pollution, Solid Waste, Climate Science, Genetics, }
